@@ -101,3 +101,5 @@ users data is the simple JSON formated array to perform the creating, user getti
               });
              }
             });
+            
+To Run the node project use the npm start from the command prompt.            
