@@ -102,13 +102,13 @@ users data is the simple JSON formated array to perform the creating, user getti
              }
             });
             
-To run the Application
+
 
 ## Project setup
 ```
 npm install
 ```
-### Start server
+### Start the node server
 ```
 npm start
-```            
+```         
