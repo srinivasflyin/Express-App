@@ -108,7 +108,7 @@ To run the Application
 ```
 npm install
 ```
-### Run the Project
+### Start server
 ```
 npm start
 ```            
